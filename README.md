@@ -50,7 +50,15 @@ Outline Dim.:228.86(H)×152.5(V) ×4.18(D) mm
 - mic(?)
 
 TODO:
+- lower keyboard to account for keys, keycaps
+  - remove heatsink, use 1.75mm thick(?) aluminum sheet as bottom case to dissapate heat?
+  - need to move the cpu in the -y direction to make space for lowered keyboard
+  - ensure lcd controller fits between keyboard and bottom case still
+    - may need to make case slightly thicker?
+
 figure out hinges
 cad out bottom case
 find a trackpad to use
 cirque makes some interesting ones, could we use one from the steam deck?
+
+find flush (chamfered?) m3 bolts for hinges
