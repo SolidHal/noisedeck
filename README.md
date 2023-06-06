@@ -21,7 +21,7 @@ rk3588 board:
 one such lcd: https://www.aliexpress.us/item/3256804526649221.html?spm=a2g0o.productlist.main.1.73c72bd4YTE0hf
 
 pointing device:
-trackpad??
+trackpad https://shop.mntre.com/products/mnt-reform-capacitive-trackpad-module
 trackball? https://shop.mntre.com/products/mnt-reform-optical-trackball-module
 
 ## parts
@@ -42,19 +42,39 @@ Configuration:RGB Vertical Stripe
 
 Outline Dim.:228.86(H)×152.5(V) ×4.18(D) mm
 
+1.75mm thick aluminum sheet for bottom case
+
+## Battery
+can only power board from the 12v barrel jack
+using 3 x 3.7v  lithium batteries
+like
+https://www.amazon.com/dp/B07TXLHLFW?psc=1&smid=A132D7PL1YID8X
+5.7mm thick, 58x104mm
+need a 3s, 3-4 amp, 12v bms like
+https://www.ebay.com/itm/383857553644
+
+
 ## features
 - btrfld keyboard
 - rk3588
 - trackpad
-- webcam
+- webcam(?)
 - mic(?)
 
+
+## Notes
+Armbian
+https://bbs.stationpc.com/forum.php?mod=viewthread&tid=323&extra=page%3D1%26filter%3Dauthor%26orderby%3Dlastpost
+
+Theres usb 2.0 on the gpio?
+https://bbs.t-firefly.com/forum.php?mod=viewthread&tid=3198&extra=page%3D2
+
 TODO:
-- lower keyboard to account for keys, keycaps
-  - remove heatsink, use 1.75mm thick(?) aluminum sheet as bottom case to dissapate heat?
-  - need to move the cpu in the -y direction to make space for lowered keyboard
-  - ensure lcd controller fits between keyboard and bottom case still
-    - may need to make case slightly thicker?
+figure out charging
+- want to use usb-c port for charging
+- batteries/screen/board need 12v
+- most usb pd chargers give 15, 9, 5v @ 3amps
+- need converter from those, to 12v
 
 figure out hinges
 cad out bottom case
