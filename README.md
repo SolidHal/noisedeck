@@ -44,14 +44,23 @@ Outline Dim.:228.86(H)×152.5(V) ×4.18(D) mm
 
 1.75mm thick aluminum sheet for bottom case
 
-## Battery
-can only power board from the 12v barrel jack
+### Battery
+- want to use usb-c port for charging
+- batteries/screen/board need 12v
+- most usb pd chargers give 15, 9, 5v @ 3amps
+- need converter from those, to 12v
+
+can only power cpu board from the 12v barrel jack
 using 3 x 3.7v  lithium batteries
 like
 https://www.amazon.com/dp/B07TXLHLFW?psc=1&smid=A132D7PL1YID8X
 5.7mm thick, 58x104mm
 need a 3s, 3-4 amp, 12v bms like
 https://www.ebay.com/itm/383857553644
+buck/boost converter like
+https://www.amazon.com/dp/B07NTXSJHB?psc=1&smid=A2TKGQERXRZT6A
+usb c power delivery controller
+https://www.sparkfun.com/products/15801
 
 
 ## features
@@ -70,15 +79,20 @@ Theres usb 2.0 on the gpio?
 https://bbs.t-firefly.com/forum.php?mod=viewthread&tid=3198&extra=page%3D2
 
 TODO:
-figure out charging
-- want to use usb-c port for charging
-- batteries/screen/board need 12v
-- most usb pd chargers give 15, 9, 5v @ 3amps
-- need converter from those, to 12v
+order:
+usbc power delivery port, trackpad
 
 figure out hinges
-cad out bottom case
-find a trackpad to use
-cirque makes some interesting ones, could we use one from the steam deck?
-
 find flush (chamfered?) m3 bolts for hinges
+
+figure out upper top case, and spacing for left/right edges of btrfld
+- test with unfolded/folded
+
+add supports for upper side of btrfld, on top of batteries
+
+angled and magnetic usb cable for btrfld
+
+place ports:
+usbc power delivery controller
+ethernet
+audio jack
