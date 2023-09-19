@@ -78,6 +78,9 @@ https://bbs.stationpc.com/forum.php?mod=viewthread&tid=323&extra=page%3D1%26filt
 Theres usb 2.0 on the gpio?
 https://bbs.t-firefly.com/forum.php?mod=viewthread&tid=3198&extra=page%3D2
 
+consider design of mnt reform pocket:
+https://www.crowdsupply.com/mnt/pocket-reform
+
 TODO:
 order:
 usbc power delivery port, trackpad
