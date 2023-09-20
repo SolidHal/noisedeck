@@ -82,18 +82,11 @@ consider design of mnt reform pocket:
 https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
-order:
-usbc power delivery port, trackpad
+find countersunk m3 bolts for hinges, figure out nut placement
 
-figure out hinges
-find flush (chamfered?) m3 bolts for hinges
+angled and magnetic(is this a feature?) usb cable for btrfld
 
-figure out upper top case, and spacing for left/right edges of btrfld
-- test with unfolded/folded
-
-add supports for upper side of btrfld, on top of batteries
-
-angled and magnetic usb cable for btrfld
+figure out long bolts and holes to hold together the case
 
 place ports:
 usbc power delivery controller
