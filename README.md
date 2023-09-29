@@ -44,6 +44,12 @@ Outline Dim.:228.86(H)×152.5(V) ×4.18(D) mm
 
 1.75mm thick aluminum sheet for bottom case
 
+
+hinge fasteners:
+M3x8 countersunk fasteners: https://www.amazon.com/HanTof-Countersunk-Machine-Wrenches-Threaded/dp/B0B9HWVV61
+M3 threaded, DIN 562 flat square nuts: https://www.amazon.com/M3nS-Printers-Stainless-Conform-Quantity/dp/B0BD2N9KTV
+
+
 ### Battery
 - want to use usb-c port for charging
 - batteries/screen/board need 12v
@@ -82,13 +88,7 @@ consider design of mnt reform pocket:
 https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
-find countersunk m3 bolts for hinges, figure out nut placement
-
 angled and magnetic(is this a feature?) usb cable for btrfld
 
 figure out long bolts and holes to hold together the case
 
-place ports:
-usbc power delivery controller
-ethernet
-audio jack
