@@ -88,6 +88,9 @@ consider design of mnt reform pocket:
 https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
+
+add connectors for strap/handles?
+
 angled and magnetic(is this a feature?) usb cable for btrfld
 
 figure out long bolts and holes to hold together the case
