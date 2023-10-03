@@ -93,5 +93,4 @@ add connectors for strap/handles?
 
 angled and magnetic(is this a feature?) usb cable for btrfld
 
-figure out long bolts and holes to hold together the case
 
