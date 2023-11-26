@@ -89,6 +89,10 @@ https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
 
+slightly more space for the lcd
+
+magnets to keep the lid closed
+
 add connectors for strap/handles?
 
 angled and magnetic(is this a feature?) usb cable for btrfld
