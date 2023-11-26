@@ -89,6 +89,13 @@ https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
 
+!!figure out btrfld usb connection, how do you plug/unplug the btrfld?!!
+
+test magnets:
+ - print lcd enclosure, lower topcase
+
+test lcd enclosure for lcd fit
+
 print the bottom cover to do a fit test
 
 add connectors for strap/handles?
