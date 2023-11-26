@@ -89,9 +89,7 @@ https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
 
-slightly more space for the lcd
-
-magnets to keep the lid closed
+print the bottom cover to do a fit test
 
 add connectors for strap/handles?
 
