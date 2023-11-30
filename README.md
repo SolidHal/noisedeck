@@ -91,12 +91,16 @@ TODO:
 
 !!figure out btrfld usb connection, how do you plug/unplug the btrfld?!!
 
-test magnets:
+- figure out wiring for power delivery system
+
+- maybe reposition display board to be under trackpad?
+  - capacitor conflicts with btrfld, can avoid moving the board if we can relocate the capacitor?
+  - find new location for audio jack
+  - maybe find new location for ethernet jack?
+
+- add slots for 20x5x2 magnets
  - print lcd enclosure, lower topcase
-
-test lcd enclosure for lcd fit
-
-print the bottom cover to do a fit test
+ - test magnets
 
 add connectors for strap/handles?
 
