@@ -63,11 +63,12 @@ https://www.amazon.com/dp/B07TXLHLFW?psc=1&smid=A132D7PL1YID8X
 5.7mm thick, 58x104mm
 need a 3s, 3-4 amp, 12v bms like
 https://www.ebay.com/itm/383857553644
-buck/boost converter like
+2x (?) buck/boost converter like
 https://www.amazon.com/dp/B07NTXSJHB?psc=1&smid=A2TKGQERXRZT6A
 usb c power delivery controller
 https://www.sparkfun.com/products/15801
 
+12v 5A diode
 
 ## features
 - btrfld keyboard
@@ -91,16 +92,15 @@ TODO:
 
 !!figure out btrfld usb connection, how do you plug/unplug the btrfld?!!
 
-- figure out wiring for power delivery system
+- figure out wiring
+  - test hdmi solution
+  - solve display board location described below so that wiring can be finalized
+  - program usbc charge port
 
 - maybe reposition display board to be under trackpad?
   - capacitor conflicts with btrfld, can avoid moving the board if we can relocate the capacitor?
   - find new location for audio jack
   - maybe find new location for ethernet jack?
-
-- add slots for 20x5x2 magnets
- - print lcd enclosure, lower topcase
- - test magnets
 
 add connectors for strap/handles?
 
