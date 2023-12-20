@@ -1,7 +1,6 @@
-# emdeck
+# noisedeck
 
-an rk3588 powered cyberdeck, combined with a btrfld
-
+a cyberdeck for music creation
 
 
 ## Size constraints
@@ -15,95 +14,41 @@ rk3588 board:
 - 95mm wide
 - 25mm tall
 
-10.1 1920x1200 display:
-(rough underestimate)
-- 218mm x 136mm
-one such lcd: https://www.aliexpress.us/item/3256804526649221.html?spm=a2g0o.productlist.main.1.73c72bd4YTE0hf
-
-pointing device:
-trackpad https://shop.mntre.com/products/mnt-reform-capacitive-trackpad-module
-trackball? https://shop.mntre.com/products/mnt-reform-optical-trackball-module
 
 ## parts
 hinges:
 - 43mmx36mm 4 Countersunk Holes Plastic Adjustable Torque Position Control E6-10-301-20 Series Hinge Black Door Hinges
 - https://www.amazon.com/gp/product/B07GX8LQCX/
 
-mipi lcd:
-troubleshooting:
-https://wiki.t-firefly.com/en/ROC-RK3588S-PC/usage_display.html#mipi-dsi
-decided to avoid using mipi since debugging it is annoying
-
-lcd:
-https://www.aliexpress.us/item/2255800186757029.html
-Active Area:217.44(H)×135.9(V) mm
-
-Configuration:RGB Vertical Stripe
-
-Outline Dim.:228.86(H)×152.5(V) ×4.18(D) mm
-
-1.75mm thick aluminum sheet for bottom case
-
-
 hinge fasteners:
 M3x8 countersunk fasteners: https://www.amazon.com/HanTof-Countersunk-Machine-Wrenches-Threaded/dp/B0B9HWVV61
 M3 threaded, DIN 562 flat square nuts: https://www.amazon.com/M3nS-Printers-Stainless-Conform-Quantity/dp/B0BD2N9KTV
 
 
-### Battery
-- want to use usb-c port for charging
-- batteries/screen/board need 12v
-- most usb pd chargers give 15, 9, 5v @ 3amps
-- need converter from those, to 12v
-
-can only power cpu board from the 12v barrel jack
-using 3 x 3.7v  lithium batteries
-like
-https://www.amazon.com/dp/B07TXLHLFW?psc=1&smid=A132D7PL1YID8X
-5.7mm thick, 58x104mm
-need a 3s, 3-4 amp, 12v bms like
-https://www.ebay.com/itm/383857553644
-2x (?) buck/boost converter like
-https://www.amazon.com/dp/B07NTXSJHB?psc=1&smid=A2TKGQERXRZT6A
-usb c power delivery controller
-https://www.sparkfun.com/products/15801
-
-12v 5A diode
-
 ## features
 - btrfld keyboard
-- rk3588
 - trackpad
-- webcam(?)
-- mic(?)
+- headphone jack
+- mic jack
+- 1x usb c ports
+- 2x usb a ports
+- ipad(?)
+- extra keys in topcase for common hotkeys(?)
+- choc key one octave keyboard in topcase(?)
 
 
 ## Notes
-Armbian
-https://bbs.stationpc.com/forum.php?mod=viewthread&tid=323&extra=page%3D1%26filter%3Dauthor%26orderby%3Dlastpost
-
-Theres usb 2.0 on the gpio?
-https://bbs.t-firefly.com/forum.php?mod=viewthread&tid=3198&extra=page%3D2
-
-consider design of mnt reform pocket:
-https://www.crowdsupply.com/mnt/pocket-reform
 
 TODO:
 
-!!figure out btrfld usb connection, how do you plug/unplug the btrfld?!!
+- figure out if ipad will work
+- dimension out ipad
+- adjust lcd enclosure to fit ipad
+- update case to match lcd enclosure size
 
-- figure out wiring
-  - test hdmi solution
-  - solve display board location described below so that wiring can be finalized
-  - program usbc charge port
 
-- maybe reposition display board to be under trackpad?
-  - capacitor conflicts with btrfld, can avoid moving the board if we can relocate the capacitor?
-  - find new location for audio jack
-  - maybe find new location for ethernet jack?
+- can we make the ipad easily removable?
+  - magnetic usbc jack?
 
-add connectors for strap/handles?
-
-angled and magnetic(is this a feature?) usb cable for btrfld
-
+- is the usbc cable internal to the case, or external?
 
