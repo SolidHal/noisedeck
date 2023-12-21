@@ -33,6 +33,7 @@ M3 threaded, DIN 562 flat square nuts: https://www.amazon.com/M3nS-Printers-Stai
 - 1x usb c ports
 - 2x usb a ports
 - ipad(?)
+- ipad pencil + charging space(?)
 - extra keys in topcase for common hotkeys(?)
 - choc key one octave keyboard in topcase(?)
 
@@ -48,6 +49,7 @@ TODO:
 
 
 - can we make the ipad easily removable?
+  - take the magnetic mount from normal ipad cases and build it into the lcd enclosure?
   - magnetic usbc jack?
 
 - is the usbc cable internal to the case, or external?
