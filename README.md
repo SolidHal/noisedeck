@@ -24,6 +24,9 @@ hinge fasteners:
 M3x8 countersunk fasteners: https://www.amazon.com/HanTof-Countersunk-Machine-Wrenches-Threaded/dp/B0B9HWVV61
 M3 threaded, DIN 562 flat square nuts: https://www.amazon.com/M3nS-Printers-Stainless-Conform-Quantity/dp/B0BD2N9KTV
 
+apple pencil charging cradle:
+https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B0BMB7362T
+
 
 ## features
 - btrfld keyboard
@@ -34,6 +37,7 @@ M3 threaded, DIN 562 flat square nuts: https://www.amazon.com/M3nS-Printers-Stai
 - 2x usb a ports
 - ipad(?)
 - ipad pencil + charging space(?)
+  - use https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B0BMB7362T in the deck instead?
 - extra keys in topcase for common hotkeys(?)
 - choc key one octave keyboard in topcase(?)
 
@@ -42,10 +46,10 @@ M3 threaded, DIN 562 flat square nuts: https://www.amazon.com/M3nS-Printers-Stai
 
 TODO:
 
-- figure out if ipad will work
-- dimension out ipad
-- adjust lcd enclosure to fit ipad
-- update case to match lcd enclosure size
+- update case to match ipad enclosure size
+
+- update hinges
+- add button/mic/usbc holes to ipad enclosure
 
 
 - can we make the ipad easily removable?
