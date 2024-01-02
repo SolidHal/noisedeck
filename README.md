@@ -46,15 +46,19 @@ https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B
 
 TODO:
 
-- update case to match ipad enclosure size
+- add chamfers
+  - ipad enclosure holes
+  - ipad enclosure casing
+  - topcase upper
+  - topcase lower
 
-- update hinges
-- add button/mic/usbc holes to ipad enclosure
+- add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
+  - like how the folio cases stay closed on the face of the ipad
 
+- add spacer to midcase to fill the upper left/right corners and keep the btrfld in place?
 
-- can we make the ipad easily removable?
-  - take the magnetic mount from normal ipad cases and build it into the lcd enclosure?
-  - magnetic usbc jack?
+- test trackpad with ipad usb
 
-- is the usbc cable internal to the case, or external?
+- figure out wiring/hub/ports
 
+- figure out apple pencil
