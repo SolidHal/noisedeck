@@ -47,13 +47,13 @@ https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B
 TODO:
 
 - add chamfers
-  - ipad enclosure holes
-  - ipad enclosure casing
   - topcase upper
   - topcase lower
 
 - add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
   - like how the folio cases stay closed on the face of the ipad
+
+- correct/update topcase upper/lower supports
 
 - add spacer to midcase to fill the upper left/right corners and keep the btrfld in place?
 
