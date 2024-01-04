@@ -53,8 +53,6 @@ TODO:
 - add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
   - like how the folio cases stay closed on the face of the ipad
 
-- correct/update topcase upper/lower supports
-
 - add spacer to midcase to fill the upper left/right corners and keep the btrfld in place?
 
 - test trackpad with ipad usb
