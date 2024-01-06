@@ -50,6 +50,8 @@ TODO:
   - topcase upper
   - topcase lower
 
+- fixup bottomcase mockup
+
 - add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
   - like how the folio cases stay closed on the face of the ipad
 
