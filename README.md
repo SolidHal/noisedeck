@@ -50,10 +50,10 @@ TODO:
   - topcase upper
   - topcase lower
 
-- fixup bottomcase mockup
-
 - add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
   - like how the folio cases stay closed on the face of the ipad
+
+- add power switch to turn on/off the usb dac so the ipad will still use its speakers
 
 - add spacer to midcase to fill the upper left/right corners and keep the btrfld in place?
 
