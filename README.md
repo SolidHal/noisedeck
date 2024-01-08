@@ -56,5 +56,3 @@ TODO:
 - figure out wiring/hub/ports
 
 - corner chamfers
-
-- main usbc cable wiring
