@@ -59,8 +59,6 @@ TODO:
 
 Revisions:
 
-- add power switch to turn on/off the usb dac so the ipad will still use its speakers
-
 - more space by the pinkeys
 - add screws/screw holes to topcase supports and bottom case to fasten them to eachother
 - combine topcase supports with topcase parts
