@@ -60,9 +60,6 @@ TODO:
 Revisions:
 
 - add power switch to turn on/off the usb dac so the ipad will still use its speakers
-- size usbc midcase holes for direct port instead of extension
-- make usba midcase hole smaller
-- make dac midcase hole smaller
 
 - more space by the pinkeys
 - add screws/screw holes to topcase supports and bottom case to fasten them to eachother
