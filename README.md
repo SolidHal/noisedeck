@@ -57,10 +57,3 @@ TODO:
 - choc key one octave keyboard in topcase(?)
 
 
-Revisions:
-
-- more space by the pinkeys
-- add screws/screw holes to topcase supports and bottom case to fasten them to eachother
-- combine topcase supports with topcase parts
-- add full wall support to lower topcase
-
