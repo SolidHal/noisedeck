@@ -46,12 +46,10 @@ https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B
 
 TODO:
 
+- figure out wiring/hub/ports
+
 - add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
   - like how the folio cases stay closed on the face of the ipad
-
-- test trackpad with ipad usb
-
-- figure out wiring/hub/ports
 
 - extra keys in topcase for common hotkeys(?)
 - choc key one octave keyboard in topcase(?)
