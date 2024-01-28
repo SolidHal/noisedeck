@@ -49,7 +49,6 @@ dac needs a power switch, otherwise the ipad will always use it by default and n
 
 TODO:
 
-- slightly larger holes for ports
 - put small chamfer in lid for right angle usbc cable
 
 - holes in midcase/topcase and lid for latch(?)
