@@ -40,6 +40,7 @@ https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B
 future:
 - extra keys in topcase for common hotkeys(?)
 - choc key one octave keyboard in topcase(?)
+- pitch joystick/wheel that snaps back to the center
 
 
 ## Notes
@@ -48,8 +49,10 @@ dac needs a power switch, otherwise the ipad will always use it by default and n
 
 TODO:
 
-- add slots in topcase lower for magnets that use the ipad magnets to keep the deck closed,
-  - like how the folio cases stay closed on the face of the ipad
+- slightly larger holes for ports
+- put small chamfer in lid for right angle usbc cable
+
+- holes in midcase/topcase and lid for latch(?)
 
 - extra keys in topcase for common hotkeys(?)
 - choc key one octave keyboard in topcase(?)
