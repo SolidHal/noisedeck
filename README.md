@@ -18,11 +18,11 @@ a cyberdeck for dealing in noise
 - trackpad
 - headphone jack
 - mic jack
-- 1x usb c ports
-- 2x usb a ports
-- ipad
-- ipad pencil + charging space
-  - use https://www.amazon.com/Paiholy-Compatible-Generation-Lightweight-Convenient/dp/B0BMB7362T in the deck
+- 1x usb c data port
+- 1x usb c charge port
+- 1x usb a port
+- ipad: magnetically mounted
+- ipad pencil and charging cradle
 - rpi zero 2 w + 5000mah battery
 
 future:
@@ -32,7 +32,7 @@ future:
 
 
 the rpi zero 2 w is ran so its usb is in gadget mode, so it tells the ipad it is an ethernet device.
-so you can setup a local network and ssh directly from the ipad to the rpi without using wifi
+with this you can setup a local network and ssh directly from the ipad to the rpi without using wifi
 this leaves the wifi chipset useful for other things
 
 ## Size constraints
